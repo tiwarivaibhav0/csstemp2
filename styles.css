@@ -1,0 +1,90 @@
+
+
+
+
+.main{
+  width: 72.5%;
+  margin:auto;
+}
+.section1{
+    overflow: auto;
+}
+
+
+
+.header {
+    float: left;
+    width: 72.5%;
+}
+
+
+
+
+.links ul li {
+display: inline-block;
+padding: 10px;
+color: #fff;
+border-right: 1px solid;
+margin-right: -4px;
+}
+
+.outer{
+  background-color: #e3e3e3;
+ 
+  padding: 20px;
+  overflow: auto;
+}
+
+.Section11{
+  float: left;
+  width: 300px;
+}
+
+
+
+.Section2 .card{
+  float: left;
+  width: 30%;
+  margin: 10px;
+  text-align: center;
+}
+
+
+
+.over{
+  clear: both;
+}
+
+.details{          
+  background-color: #e3e3e3;
+  text-align: center;
+  padding: 25px;          
+}
+
+.details input{
+  padding: 10px;
+}
+
+
+
+#Us{
+  font-weight: bold;
+}
+
+.footer{
+  overflow: auto;
+}
+
+.copy{
+  float: left;
+  width: 200px;
+}
+
+.cedcoss{
+  text-align: right;
+}
+#submit{
+    background-color: rgb(25, 180, 241);
+    width: 18%;
+    height: 38px;
+}
